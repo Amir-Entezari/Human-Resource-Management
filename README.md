@@ -6,7 +6,7 @@
 <br>
 
 # How to install and run project:
-However the project is available on hrm.amirentezari.ir/splash, you can run the application on your local machine
+However the project is available on hrm.amirentezari.ir/, you can run the application on your local machine
 ## 1. Clone the repo:
 Clone the repo with command:
 ```
@@ -20,5 +20,5 @@ docker compose up
 ```
 
 # How to work with the project:
-On hrm.amirentezari.ir/splash, you can scan your qr code to checkout your enter or exit. On top of the page, you can login to see your information like checkouts, workhours, wage and etc. on hrm.amirentezari.ir/splash, on top of the page, you can send feedback to others and see feedbacks that others sent to you. 
+On hrm.amirentezari.ir/, you can scan your qr code to checkout your enter or exit. On top of the page, you can login to see your information like checkouts, workhours, wage and etc. on hrm.amirentezari.ir/, on top of the page, you can send feedback to others and see feedbacks that others sent to you. 
 In addition, a full admin panel is available on hrm-api.amirentezari.ir/admin that you can do anything you want.
